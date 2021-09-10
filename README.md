@@ -78,6 +78,7 @@ The SDLC is the methods used to fulfill the functions associated with a core pro
 Another important point is modeling. Modeling is a basic design practice. This design practice can consist of static and dynamic models. The static model is used to represent aspects of the program that do not change during execution, and the dynamic model is used to represent the program’s function at execution.
 
 
+![SDLC6](https://user-images.githubusercontent.com/87574534/132817698-596fab72-60d1-4110-a755-2d24f428166d.png)
 
 
 ### Development

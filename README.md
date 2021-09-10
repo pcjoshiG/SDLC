@@ -19,6 +19,10 @@ The software covers an important area of our life. _As such, software actually m
  ## What are the phases of SDLC?
  
  
+![SDLC2](https://user-images.githubusercontent.com/87574534/132816457-9a94bbcb-9c99-4037-86bc-fe3fe3a0c8b7.png)
+
+ 
+ 
  The basic software development phases are as follows:
 
 |Sr.No.|Name|

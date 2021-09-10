@@ -9,7 +9,7 @@ The software covers an important area of our life. _As such, software actually m
  which has such an important place in our lives, is the Software Development Life Cycle (SDLC).
  
  
- ![SDLC1](https://user-images.githubusercontent.com/87574534/132812202-ad374306-8b61-4d9d-9506-79e87c4edb1f.png width=50% height=50%)
+ ![SDLC1](https://user-images.githubusercontent.com/87574534/132812202-ad374306-8b61-4d9d-9506-79e87c4edb1f.png width="150" height="280">)
  
  
  

@@ -96,6 +96,10 @@ It is possible to use many methods in the Software Testing process, including ma
 ### Integration
 on the other hand, is the configurations and tests performed to enable the developed software to interact correctly with other products in the environment. The software must be compatible with third-party applications or the environment in which it will be used.
 
+
+
+![SDLC7](https://user-images.githubusercontent.com/87574534/132817885-0f0a21ce-905b-4c62-8cda-e7cbd03ef9bc.png)
+
 ### Maintenance
 After the testing phase is completed, a usable and deliverable version of the software is created. In addition, the user guide documents and changelog document for software versions are prepared for the end-user.
 

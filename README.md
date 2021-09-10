@@ -57,6 +57,13 @@ The purpose of this stage is to clarify the system functions and exact requireme
 ### Design
 The system design phase begins with the completion of the requirements. Software product design is the activity of determining the characteristics and interfaces of the software product to meet the needs and requests of the customer. At the design stage, it is possible to mention two types of designs. These types are high-level design and architectural design.
 
+
+
+
+![SDLC5](https://user-images.githubusercontent.com/87574534/132817523-eb0b5d0f-7e0b-4326-be8b-e770b58941be.png)
+
+
+
 Architectural design deals with the general structures of software modules and their interactions within the organization. As a result of this type, architectural design documents are created. At the detailed design stage, architectural design documents are usually revised.
 
 High-level design focuses on cost, performance, complexity, security, and overall applicability. Instead of software developers, the target audience is the program owner, project manager and other architects.

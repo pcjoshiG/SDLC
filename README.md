@@ -41,6 +41,9 @@ The software covers an important area of our life. _As such, software actually m
 This is the first phase of the software development life cycle. At this stage, you determine the basic requirements requested from you, make a feasibility work for the project and execute the project plan. The planning stage is actually the most important stage in project management. It is the stage where the work is projected, the idea is revealed and the idea is discussed.
 
 
+![SDLC3](https://user-images.githubusercontent.com/87574534/132816500-ee3b6e4d-aba6-4bc1-b072-c4539b3ee752.png)
+
+
 
 ### Analysis
 The purpose of this stage is to clarify the system functions and exact requirements and save them in a specific format. This stage brings together customers, software engineers, system analysts and product managers. If there are unclear requirements, there should be more communication and cooperation between software engineers and customers. At this stage, user manuals can also be created with various software development methods.

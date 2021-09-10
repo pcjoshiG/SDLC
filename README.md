@@ -22,6 +22,7 @@ The software covers an important area of our life. _As such, software actually m
  The basic software development phases are as follows:
 
 |Sr.No.|Name|
+|-|-|
 |1 | Planning |
 |2|Analysis|
 |3|Design|

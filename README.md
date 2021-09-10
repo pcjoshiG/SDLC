@@ -10,3 +10,75 @@ The software covers an important area of our life. _As such, software actually m
  
  
  ![SDLC1](https://user-images.githubusercontent.com/87574534/132812202-ad374306-8b61-4d9d-9506-79e87c4edb1f.png)
+ 
+ 
+ 
+ Software Development Life Cycle (SDLC) is the process that covers the stages from the idea of a software to the release of the final product. The software development process consists of time-based stages. In this way, the software can be developed in a planned way. These stages are processed in a continuous cycle, as the needs of software functions are constantly changing and expanding. You can move back and forth at any stage of the cycle.
+ 
+ 
+ ## What are the phases of SDLC?
+ 
+ 
+ The basic software development phases are as follows:
+
+|Sr.No.|Name|
+|1 | Planning |
+|2|Analysis|
+|3|Design|
+|4|Development|
+|5|Testing & Integration|
+|6|Maintenance|
+
+
+
+
+### Planning
+This is the first phase of the software development life cycle. At this stage, you determine the basic requirements requested from you, make a feasibility work for the project and execute the project plan. The planning stage is actually the most important stage in project management. It is the stage where the work is projected, the idea is revealed and the idea is discussed.
+
+
+
+### Analysis
+The purpose of this stage is to clarify the system functions and exact requirements and save them in a specific format. This stage brings together customers, software engineers, system analysts and product managers. If there are unclear requirements, there should be more communication and cooperation between software engineers and customers. At this stage, user manuals can also be created with various software development methods.
+
+
+
+
+### Design
+The system design phase begins with the completion of the requirements. Software product design is the activity of determining the characteristics and interfaces of the software product to meet the needs and requests of the customer. At the design stage, it is possible to mention two types of designs. These types are high-level design and architectural design.
+
+Architectural design deals with the general structures of software modules and their interactions within the organization. As a result of this type, architectural design documents are created. At the detailed design stage, architectural design documents are usually revised.
+
+High-level design focuses on cost, performance, complexity, security, and overall applicability. Instead of software developers, the target audience is the program owner, project manager and other architects.
+
+
+The analysis phase, in which the requirements are determined, is about what the problem is. Most of the time, the “what” statement is the design decision, while the “how” statement may also be the need of the customer.
+
+One of the most important steps in the software development life cycle is abstraction. Abstraction is to ignore certain properties of objects, events and situations for the convenience of problem solving. The working logic of abstraction simplifies the problem and allows us to focus on the most important part.
+
+The SDLC is the methods used to fulfill the functions associated with a core process. The specific methods used for the process flow are the methods that show the relationships and messaging between the processes. It can be consist of data flowcharts, structural charts, object/class schemas, etc.
+
+Another important point is modeling. Modeling is a basic design practice. This design practice can consist of static and dynamic models. The static model is used to represent aspects of the program that do not change during execution, and the dynamic model is used to represent the program’s function at execution.
+
+
+
+
+### Development
+The development phase, which is one of the important stages of the software development life cycle. As the design phase of the implementation reaches a certain maturity, the development phase begins. This stage is the process in which the product to be delivered to the customer is developed. Quality coding is very important both in the software development life cycle and in the general usage area.
+
+
+So let’s briefly talk about quality coding. Good code is a simple code that is easy to read and maintain. According to the principle of “Keep it simple”, your code is a good code if someone can understand and change your code within 1-2 days when you give your code to a new employee. Whether you work in a company or develop individual projects, you must have a certain coding quality standard.
+
+### Testing & Integration
+The testing phase is an essential part of the development process. It is the stage where the developed software is tested whether it meets the expected requirements, how it reacts to correct and incorrect data entries, the performance of the software is measured and unexpected errors are found and sent to the development phase to be eliminated.
+
+It is possible to use many methods in the Software Testing process, including manual and Test Automation. In this way, the quality of the developed software increases and the error rate is reduced to the lowest level. Another important issue is measuring the performance of the software. Performance Testing comes into play in this regard.
+
+
+### Integration
+on the other hand, is the configurations and tests performed to enable the developed software to interact correctly with other products in the environment. The software must be compatible with third-party applications or the environment in which it will be used.
+
+### Maintenance
+After the testing phase is completed, a usable and deliverable version of the software is created. In addition, the user guide documents and changelog document for software versions are prepared for the end-user.
+
+
+In the / maintenance phase, there are different maintenance activities such as adding new features to the product, resolving errors, bugs and defects and monitoring the performance of the software. Based on the feedback from the users, new improvements can be made and existing problems can be solved in the application.

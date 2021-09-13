@@ -50,7 +50,8 @@ This is the first phase of the software development life cycle. At this stage, y
 The purpose of this stage is to clarify the system functions and exact requirements and save them in a specific format. This stage brings together customers, software engineers, system analysts and product managers. If there are unclear requirements, there should be more communication and cooperation between software engineers and customers. At this stage, user manuals can also be created with various software development methods.
 
 
-![SDLC4](https://user-images.githubusercontent.com/87574534/132817240-5ef80733-ce6f-4701-a6ea-2f3434af590a.png)
+
+![SDLC4 (2)](https://user-images.githubusercontent.com/87574534/133109436-92c67506-47a4-471e-9997-fbaf039e4db6.png)
 
 
 

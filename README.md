@@ -100,7 +100,8 @@ on the other hand, is the configurations and tests performed to enable the devel
 
 
 
-![SDLC7](https://user-images.githubusercontent.com/87574534/132817885-0f0a21ce-905b-4c62-8cda-e7cbd03ef9bc.png)
+![SDLC7_adobespark](https://user-images.githubusercontent.com/87574534/133109915-21224e04-ad37-474f-aebc-0676105b5021.png)
+
 
 ### Maintenance
 After the testing phase is completed, a usable and deliverable version of the software is created. In addition, the user guide documents and changelog document for software versions are prepared for the end-user.

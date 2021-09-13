@@ -62,7 +62,7 @@ The system design phase begins with the completion of the requirements. Software
 
 
 
-![SDLC5](https://user-images.githubusercontent.com/87574534/132817523-eb0b5d0f-7e0b-4326-be8b-e770b58941be.png)
+![SDLC5_adobespark](https://user-images.githubusercontent.com/87574534/133109647-59b78099-8a22-439f-84c8-d3f703bba255.png)
 
 
 

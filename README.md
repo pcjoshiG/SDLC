@@ -42,7 +42,7 @@ The software covers an important area of our life. _As such, software actually m
 This is the first phase of the software development life cycle. At this stage, you determine the basic requirements requested from you, make a feasibility work for the project and execute the project plan. The planning stage is actually the most important stage in project management. It is the stage where the work is projected, the idea is revealed and the idea is discussed.
 
 
-![SDLC3](https://user-images.githubusercontent.com/87574534/132816500-ee3b6e4d-aba6-4bc1-b072-c4539b3ee752.png)
+![SDLC3_adobespark](https://user-images.githubusercontent.com/87574534/133107016-098a5ce2-68b3-4b6d-be6c-b3eda08d4ca1.png)
 
 
 

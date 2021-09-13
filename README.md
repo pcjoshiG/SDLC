@@ -106,4 +106,4 @@ After the testing phase is completed, a usable and deliverable version of the so
 
 In the / maintenance phase, there are different maintenance activities such as adding new features to the product, resolving errors, bugs and defects and monitoring the performance of the software. Based on the feedback from the users, new improvements can be made and existing problems can be solved in the application.
 
-![conchord](https://user-images.githubusercontent.com/87574534/132862746-d1dc1917-92fe-4939-af2e-3da3a1cbb795.png)
+![conchord](https://user-images.githubusercontent.com/87574534/132862746-d1dc1917-92fe-4939-af2e-3da3a1cbb795.png width 100, height 150)

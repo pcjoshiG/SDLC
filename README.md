@@ -19,7 +19,8 @@ The software covers an important area of our life. _As such, software actually m
  ## What are the phases of SDLC?
  
  
-![SDLC2](https://user-images.githubusercontent.com/87574534/132816457-9a94bbcb-9c99-4037-86bc-fe3fe3a0c8b7.png)
+
+![SDLC2_adobespark](https://user-images.githubusercontent.com/87574534/133106795-eae6ef8a-c234-4ae8-a6f6-a9c8a0bd0762.png)
 
  
  
